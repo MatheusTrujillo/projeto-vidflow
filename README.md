@@ -1,0 +1,2 @@
+Ao longo do curso, tive a oportunidade de aprofundar meus conhecimentos em JavaScript e aprender práticas avançadas para trabalhar com APIs. Um dos pontos altos foi o desenvolvimento de uma plataforma de vídeo, na qual implementei funcionalidades de busca e filtros por categorias. Este projeto demonstrou na prática a importância de manipular dados de forma eficiente para proporcionar uma experiência de usuário fluida e intuitiva.
+
